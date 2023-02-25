@@ -118,7 +118,7 @@ def MAHABUB():
     if _MAHABUB___ in ('1', '01'):
         __xxx__().MAHABUBx(id)
     if _MAHABUB___ in ('2', '02'):
-        os.system("python Beta.py")
+        create_file()
     if _MAHABUB___ in ('E', 'ee'):
         os.system("python home.py")
 
